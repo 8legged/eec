@@ -25,3 +25,4 @@ app/bower_components/
 .sass-cache/
 bower_components/
 app/bower_components/
+server.js
